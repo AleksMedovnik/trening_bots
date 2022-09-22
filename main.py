@@ -39,7 +39,7 @@
 # import telebot
 #
 # # # Создаем бота
-# bot = telebot.TeleBot('5245877443:AAGm7Gtt76CMg6RENHkm3xlos8RbiFTbub8')
+# bot = telebot.TeleBot('...')
 #
 #
 # @bot.message_handler(commands=['start'])
@@ -76,7 +76,7 @@
 # from datetime import date
 #
 # # # Создаем бота
-# bot = telebot.TeleBot('5245877443:AAGm7Gtt76CMg6RENHkm3xlos8RbiFTbub8')
+# bot = telebot.TeleBot('...')
 #
 #
 # @bot.message_handler(commands=['start'])
@@ -117,7 +117,7 @@
 # from datetime import date
 #
 # # # Создаем бота
-# bot = telebot.TeleBot('5245877443:AAGm7Gtt76CMg6RENHkm3xlos8RbiFTbub8')
+# bot = telebot.TeleBot('...')
 #
 #
 # @bot.message_handler(commands=['start'])
@@ -166,7 +166,7 @@
 # import telebot, wikipedia
 #
 # # # Создаем бота
-# bot = telebot.TeleBot('5245877443:AAGm7Gtt76CMg6RENHkm3xlos8RbiFTbub8')
+# bot = telebot.TeleBot('...')
 #
 # # Устанавливаем русский язык
 # wikipedia.set_lang("ru")
@@ -220,7 +220,7 @@
 # import telebot, random
 # from telebot import types
 #
-# bot = telebot.TeleBot('5245877443:AAGm7Gtt76CMg6RENHkm3xlos8RbiFTbub8')
+# bot = telebot.TeleBot('...')
 #
 # def build_menu(buttons, n_cols,
 #                header_buttons=None,
